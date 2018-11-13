@@ -1,7 +1,9 @@
 # Road of master
-This project is a meta-collection that contains multiple awesome resource collections.
-Choose wisely, read quickly, do it manually
+> This project is a meta-collection that contains multiple awesome resource collections.
+> Choose wisely, read quickly, do it manually
+
 ![you-shall-not-pass](imgs/you-shall-not-pass.png)
+
 ---
 
 ## Linux
