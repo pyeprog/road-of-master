@@ -7,7 +7,7 @@
 ---
 
 ## Linux
-1. [The art of command line](https://github.com/pyeprog?tab=stars)
+1. [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 
 ## Design pattern
 1. [Design pattern for human](https://github.com/kamranahmedse/design-patterns-for-humans)
